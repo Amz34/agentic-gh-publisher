@@ -33,3 +33,7 @@ When autonomous AI agent swarms produce codebases across local VMs, publishing t
 
 ## License
 [MIT License](LICENSE) © 2026 Aamir Zahran
+
+---
+
+Part of [my always-on agent stack](https://github.com/Amz34) · [Awesome Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) (135 live-checked building blocks).
